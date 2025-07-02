@@ -32,7 +32,14 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# R source file
+# Snakemake source file
+*.smk linguist-detectable=true
+*.smk linguist-documentation=false
+*.smk linguist-language=Snakemake
+*.snakemake linguist-detectable=true
+*.snakemake linguist-documentation=false
+*.snakemake linguist-language=Snakemake
+# R source fil
 *.r linguist-detectable=true
 *.r linguist-documentation=false
 *.r linguist-language=R
@@ -183,7 +190,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Tuesday, July 1st at 10:31 pm PST)
+# Line count (including blank lines and compiler line): 197
 
 # End of script
